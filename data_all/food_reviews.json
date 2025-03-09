@@ -1,0 +1,490 @@
+[
+    {
+        "eatery_name": "Baskin Robbins",
+        "rating": 2.5,
+        "reviews": [
+            {
+                "text": "Although the ice cream was delicious, some students felt it was overpriced.",
+                "sentiment": "mixed",
+                "aspects": [
+                    "price",
+                    "quality"
+                ]
+            }
+        ]
+    },
+    {
+        "eatery_name": "Bimala Sweets",
+        "rating": 3,
+        "reviews": [
+            {
+                "text": "Mixed opinions were observed on the quality of sweets. While some thought the quality was good, others said it was not up to the mark.",
+                "sentiment": "mixed",
+                "aspects": [
+                    "quality"
+                ]
+            },
+            {
+                "text": "According to popular opinion, the sweets are priced more than normal and not within the affordable range.",
+                "sentiment": "negative",
+                "aspects": [
+                    "price"
+                ]
+            },
+            {
+                "text": "Additionally, the staff could be more responsive.",
+                "sentiment": "negative",
+                "aspects": [
+                    "service"
+                ]
+            },
+            {
+                "text": "In this era of cashless transactions, it would be quite beneficial if they implemented an online payment system.",
+                "sentiment": "positive",
+                "aspects": [
+                    "payment_options"
+                ]
+            }
+        ]
+    },
+    {
+        "eatery_name": "Cafe Coffee Day",
+        "rating": 2.92,
+        "reviews": [
+            {
+                "text": "According to popular opinion, the food was good but expensive.",
+                "sentiment": "mixed",
+                "aspects": [
+                    "price",
+                    "quality"
+                ]
+            },
+            {
+                "text": "After the campus has reopened, students were unhappy with the removal of student subsidies, and most of them find the food to be overpriced.",
+                "sentiment": "negative",
+                "aspects": [
+                    "price"
+                ]
+            },
+            {
+                "text": "Some objected that the rate had been increased while the amount of food provided had been lowered.",
+                "sentiment": "negative",
+                "aspects": [
+                    "price",
+                    "quantity"
+                ]
+            },
+            {
+                "text": "Another issue that students faced is that online payments are only accepted via the Paytm wallet. With the internet not working properly all the time, it gets troublesome for the students when they don’t have enough money in their Paytm wallet.",
+                "sentiment": "negative",
+                "aspects": [
+                    "payment_options"
+                ]
+            },
+            {
+                "text": "It would be more convenient if the mode of payment was expanded beyond the current system.",
+                "sentiment": "positive",
+                "aspects": [
+                    "payment_options"
+                ]
+            }
+        ]
+    },
+    {
+        "eatery_name": "Dreamland Restaurant",
+        "rating": 2,
+        "reviews": [
+            {
+                "text": "Customers stated that the food quality was poor and that the price they were charged was excessive.",
+                "sentiment": "negative",
+                "aspects": [
+                    "quality",
+                    "price"
+                ]
+            },
+            {
+                "text": "They were disappointed with the taste and quality of vegetarian cuisine, but they thought the service was fine.",
+                "sentiment": "mixed",
+                "aspects": [
+                    "quality",
+                    "service"
+                ]
+            },
+            {
+                "text": "While criticising their service, one of the students said that despite asking for the spicy food specifically, it turned out to be tasteless.",
+                "sentiment": "negative",
+                "aspects": [
+                    "quality",
+                    "service"
+                ]
+            }
+        ]
+    },
+    {
+        "eatery_name": "Food City",
+        "rating": 3.31,
+        "reviews": [
+            {
+                "text": "While some students thought that the food was 'great' and it served as their sweet economical escape from the mess food, others claimed improvement was needed in terms of food quality and that the food was too oily.",
+                "sentiment": "mixed",
+                "aspects": [
+                    "quality"
+                ]
+            },
+            {
+                "text": "Some students stated they kept a wide variety of snacks, while others believed there was a need for more diversity.",
+                "sentiment": "mixed",
+                "aspects": [
+                    "variety"
+                ]
+            },
+            {
+                "text": "There have been concerns about the high prices of the items, as well as the long wait time for the food to be served.",
+                "sentiment": "negative",
+                "aspects": [
+                    "price",
+                    "wait_time"
+                ]
+            },
+            {
+                "text": "Despite these complaints, students find it to be a nice place for fast food and want it to remain open overnight.",
+                "sentiment": "positive",
+                "aspects": [
+                    "opening_hours"
+                ]
+            }
+        ]
+    },
+    {
+        "eatery_name": "Heritage Restaurant",
+        "rating": 2.14,
+        "reviews": [
+            {
+                "text": "Heritage Restaurant received mostly negative feedback on the meal quality, menu variety, and service.",
+                "sentiment": "negative",
+                "aspects": [
+                    "quality",
+                    "variety",
+                    "service"
+                ]
+            },
+            {
+                "text": "We received several responses expressing that the meal quality was poor/bad and that it needed to be improved.",
+                "sentiment": "negative",
+                "aspects": [
+                    "quality"
+                ]
+            }
+        ]
+    },
+    {
+        "eatery_name": "Mio Amore",
+        "rating": 4,
+        "reviews": [
+            {
+                "text": "With a fairly positive rating of 4/5, Mio Amore received praises for being ‘amazing’, a ‘good confectionery’ and a ‘good place for having snacks’.",
+                "sentiment": "positive",
+                "aspects": [
+                    "quality"
+                ]
+            },
+            {
+                "text": "The majority of students complained about food shortages and food is out of stock.",
+                "sentiment": "negative",
+                "aspects": [
+                    "availability"
+                ]
+            },
+            {
+                "text": "Some students felt that the fewer vegetarian choices provided, the better.",
+                "sentiment": "mixed",
+                "aspects": [
+                    "variety"
+                ]
+            },
+            {
+                "text": "We also received complaints regarding their poor customer service and cold food.",
+                "sentiment": "negative",
+                "aspects": [
+                    "service",
+                    "quality"
+                ]
+            },
+            {
+                "text": "More employees at busy hours can help with crowd management.",
+                "sentiment": "positive",
+                "aspects": [
+                    "service"
+                ]
+            }
+        ]
+    },
+    {
+        "eatery_name": "PAN Loop Fast Food Center",
+        "rating": 3.23,
+        "reviews": [
+            {
+                "text": "PFC is one of the most popular go-to spots not only for the PAN loop inhabitants but also for the entire KGP community.",
+                "sentiment": "positive",
+                "aspects": [
+                    "popularity"
+                ]
+            },
+            {
+                "text": "A common complaint was that the prices are too high given the quality and quantity, and the orders take a lot of time to be prepared, sometimes surpassing an hour (some went as far to argue that ‘Khana bhejte bhejte inki apni Naani yaad aa jati hai’)",
+                "sentiment": "negative",
+                "aspects": [
+                    "price",
+                    "quality",
+                    "wait_time"
+                ]
+            },
+            {
+                "text": "According to a customer, the staff are a bit rude.",
+                "sentiment": "negative",
+                "aspects": [
+                    "service"
+                ]
+            },
+            {
+                "text": "Some believe the menu needs to be expanded to include more variety.",
+                "sentiment": "positive",
+                "aspects": [
+                    "variety"
+                ]
+            },
+            {
+                "text": "Some students raised an issue concerning the lack of a gay-friendly environment, citing that they get ‘stared at’ and are made to feel awkward.",
+                "sentiment": "negative",
+                "aspects": [
+                    "environment"
+                ]
+            },
+            {
+                "text": "On the positive side, some students said that the place is well-kept with a good ambience, and the food is decently tasty.",
+                "sentiment": "positive",
+                "aspects": [
+                    "ambience",
+                    "quality"
+                ]
+            },
+            {
+                "text": "As recommended by one of the customers, anybody with a non-vegetarian craving can try out ‘chicken wings or chicken bonesticks’ at PFC.",
+                "sentiment": "positive",
+                "aspects": [
+                    "recommendation"
+                ]
+            }
+        ]
+    },
+    {
+        "eatery_name": "Peeps Kitchen",
+        "rating": 1.9,
+        "reviews": [
+            {
+                "text": "The common complaint was that the prices are too high and the service is substandard.",
+                "sentiment": "negative",
+                "aspects": [
+                    "price",
+                    "service"
+                ]
+            }
+        ]
+    },
+    {
+        "eatery_name": "Radhakanta Sweets",
+        "rating": 3,
+        "reviews": [
+            {
+                "text": "The customers unanimously agreed that the quality of food is quite good, but the non-acceptance of online payments is a bother.",
+                "sentiment": "mixed",
+                "aspects": [
+                    "quality",
+                    "payment_options"
+                ]
+            },
+            {
+                "text": "The customers have to withdraw cash in order to pay for their orders, and this is not always convenient.",
+                "sentiment": "negative",
+                "aspects": [
+                    "payment_options"
+                ]
+            }
+        ]
+    },
+    {
+        "eatery_name": "Smart Pind",
+        "rating": 3.48,
+        "reviews": [
+            {
+                "text": "Interestingly, a huge volume of mixed responses was received for Smart Pind.",
+                "sentiment": "mixed"
+            },
+            {
+                "text": "Many people praised the quality of food served and found the food delicious.",
+                "sentiment": "positive",
+                "aspects": [
+                    "quality"
+                ]
+            },
+            {
+                "text": "Quite a few reviews mentioned that the environment is great, the waiting time is not much, and the customer service is decent.",
+                "sentiment": "positive",
+                "aspects": [
+                    "ambience",
+                    "wait_time",
+                    "service"
+                ]
+            },
+            {
+                "text": "To quote one of the satisfied customers - ‘By far (Smart Pind is) the best restaurant on campus in terms of taste’.",
+                "sentiment": "positive",
+                "aspects": [
+                    "quality"
+                ]
+            },
+            {
+                "text": "Some cited that the place is ‘expensive’, whereas others said that the ‘pricing is affordable’.",
+                "sentiment": "mixed",
+                "aspects": [
+                    "price"
+                ]
+            },
+            {
+                "text": "We also received some responses which said that the food quality has worsened since the reopening and needs to improve.",
+                "sentiment": "negative",
+                "aspects": [
+                    "quality"
+                ]
+            },
+            {
+                "text": "Some customers suggested an increase in the seating arrangement.",
+                "sentiment": "positive",
+                "aspects": [
+                    "seating"
+                ]
+            },
+            {
+                "text": "Some students complained of getting food poisoning after dining at Smart Pind and suggested the Institute look into this matter so that fresh food is served in the restaurant at all times.",
+                "sentiment": "negative",
+                "aspects": [
+                    "quality",
+                    "health_concerns"
+                ]
+            },
+            {
+                "text": "Some customers suggested an increase in the quantity of food in the dishes served.",
+                "sentiment": "positive",
+                "aspects": [
+                    "quantity"
+                ]
+            }
+        ]
+    },
+    {
+        "eatery_name": "Subway",
+        "rating": 2.43,
+        "reviews": [
+            {
+                "text": "Subway was another eatery that received mixed reactions.",
+                "sentiment": "mixed"
+            },
+            {
+                "text": "While some commented that this fast-food restaurant is ‘great’, others argued that they ‘consistently provide bad quality of food’.",
+                "sentiment": "mixed",
+                "aspects": [
+                    "quality"
+                ]
+            },
+            {
+                "text": "Ironic to Subway’s slogan ‘Eat Fresh’, one of the customers commented that the food served was in fact ‘not so fresh’.",
+                "sentiment": "negative",
+                "aspects": [
+                    "quality"
+                ]
+            },
+            {
+                "text": "Most of the customers agreed that the price is too high, and the students would really appreciate it if the restaurant was subsidised.",
+                "sentiment": "negative",
+                "aspects": [
+                    "price"
+                ]
+            }
+        ]
+    },
+    {
+        "eatery_name": "Super Duper",
+        "rating": 4.75,
+        "reviews": [
+            {
+                "text": "Fondly known as ‘SupDup’, this eatery received the maximum positive responses from the customers.",
+                "sentiment": "positive"
+            },
+            {
+                "text": "With an average rating of 4.75/5, the only complaint the customers seemed to have is that Super Duper does not remain open for a longer period of time.",
+                "sentiment": "negative",
+                "aspects": [
+                    "opening_hours"
+                ]
+            },
+            {
+                "text": "Customers suggested the place should stay open for 24 hours.",
+                "sentiment": "positive",
+                "aspects": [
+                    "opening_hours"
+                ]
+            },
+            {
+                "text": "A customer quoted that Super Duper is the ‘best place to chill’ on campus.",
+                "sentiment": "positive",
+                "aspects": [
+                    "ambience"
+                ]
+            }
+        ]
+    },
+    {
+        "eatery_name": "Tikka shops",
+        "rating": 2.78,
+        "reviews": [
+            {
+                "text": "Despite the decent ratings received by Tikka, one of the recurring concerns of the customers was the seating arrangement.",
+                "sentiment": "negative",
+                "aspects": [
+                    "seating"
+                ]
+            },
+            {
+                "text": "Customers said that the seats are often messy and the benches are dirty. There is a lack of infrastructure to maintain cleanliness.",
+                "sentiment": "negative",
+                "aspects": [
+                    "cleanliness",
+                    "seating"
+                ]
+            },
+            {
+                "text": "Some customers suggested the installation of a juice shop at Tikka, and some suggested that the eateries should remain open till 5 AM.",
+                "sentiment": "positive",
+                "aspects": [
+                    "variety",
+                    "opening_hours"
+                ]
+            },
+            {
+                "text": "The waiting time for receiving food orders was reported to be high by some customers.",
+                "sentiment": "negative",
+                "aspects": [
+                    "wait_time"
+                ]
+            },
+            {
+                "text": "Apart from this, customers said that the Tikka shops provide great food with good quality for the price. No complaints about the cost were received.",
+                "sentiment": "positive",
+                "aspects": [
+                    "quality",
+                    "price"
+                ]
+            }
+        ]
+    }
+]
